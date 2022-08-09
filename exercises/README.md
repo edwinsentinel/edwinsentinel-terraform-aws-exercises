@@ -1,2 +1,0 @@
-Create a simple AWS VPC spanning 2 AZs. Public subnets will be created, together with an internet gateway, and single route table. A t3.micro instance will be deployed and installed with Nginx for web serving. Security groups will be created and deployed to secure all network traffic between the various components.
-![ex1](https://user-images.githubusercontent.com/7680114/183639348-6b0f040b-08ba-40ef-89a1-5c2d30b4963c.png)
